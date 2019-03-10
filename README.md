@@ -1,0 +1,2 @@
+# spring_mvc_tem
+spring整合mybatis以及模仿Springboot的资源映射方式的模板
